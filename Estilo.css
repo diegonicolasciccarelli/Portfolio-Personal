@@ -1,0 +1,130 @@
+body {
+
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsREr1Gt8oTh9w9hJmGcJnc9TKNcACPJwxohFSoKgqz4WiDEVdqBMucqHsXsNpqil5VrA&usqp=CAU) no-repeat fixed;
+    background-size: 100% auto, 100% ;
+}  /*  
+.estilo{
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
+}*/
+
+.estilo 
+
+header{
+    position:relative;
+    margin:auto;
+    text-align:center;
+    padding:5px;
+    background:rgb(124, 114, 110)
+}
+nav{
+    position:relative;
+    margin:auto;
+    width:100%;
+    height: auto;
+    background:rgb(124, 114, 110);
+}
+nav ul{
+    position:relative;
+    margin:auto;
+    width:50%;
+    text-align:center;
+}
+nav ul li{
+    display:inline-block ;
+    width:24%;
+    line-height: 50px;
+    list-style:none;
+    
+}
+nav ul li a{
+    color:black;
+    text-decoration:burlywood;
+    
+    
+}nav ul li a:hover{
+    background-color: red;
+    
+}
+.PrimerApartado{
+    background-color: aquamarine;
+    position:relative;
+    margin:auto;
+    text-align:left;
+    padding:5px;
+
+}
+/*aca cambiando la letra del texto*/
+.PrimerApartado p {
+color:royalblue;
+
+}
+
+/*
+.PrimerApartado #imagenproyecto{
+
+    WIDTH:10% ;
+    HEIGHT:10%;
+    margin:auto;
+    text-align:left;
+    padding:5px;
+}
+*/
+/*probando*/
+.SegundoApartado{
+    position:relative;
+    margin:auto;
+    text-align:left;
+    padding:5px;
+
+}
+
+.TerceroApartado{
+    position:relative;
+    margin:auto;
+    text-align:left;
+    padding:5px;
+
+}
+
+.sobremi-h1{
+    font-size: 30px;
+    text-align: center;
+    padding: 5px;
+    margin-top: 5%;
+   
+}
+.sobremi-h2{
+    font-size: 20px;
+    text-align: left;
+    padding: 5px;
+    display: flex;
+   
+}
+.TextoApartado{
+    display: flex;
+   
+    align-items: left;
+    padding: 5px;
+    
+
+}
+
+.sobremi-perfil{
+    border-radius:2rem;
+    align-items: right;
+    display: flex;
+    width: 20%;
+    height: 20%;
+    margin-right: 5%;
+    margin-left: 5% ;
+    
+    
+}
+.volverinicio{
+   
+    display: flex;
+   
+    align-items: left;
+}
