@@ -16,7 +16,7 @@ header{
     margin:auto;
     text-align:center;
     padding:5px;
-    background:rgb(124, 114, 110)
+  
 }
 nav{
     position:relative;
@@ -40,37 +40,31 @@ nav ul li{
 }
 nav ul li a{
     color:black;
-    text-decoration:burlywood;
+    text-decoration:rgb(130, 130, 252);
     
     
 }nav ul li a:hover{
     background-color: red;
     
 }
-.PrimerApartado{
-    background-color: aquamarine;
-    position:relative;
-    margin:auto;
-    text-align:left;
-    padding:5px;
 
-}
 /*aca cambiando la letra del texto*/
-.PrimerApartado p {
+/*.PrimerApartado p {
 color:royalblue;
 
-}
+}*/
+
 
 /*
-.PrimerApartado #imagenproyecto{
+.Proyecto1{
 
     WIDTH:10% ;
     HEIGHT:10%;
     margin:auto;
     text-align:left;
     padding:5px;
-}
-*/
+}*/
+
 /*probando*/
 .SegundoApartado{
     position:relative;
@@ -117,6 +111,57 @@ color:royalblue;
     display: flex;
     width: 20%;
     height: 20%;
+    margin-right: 5%;
+    margin-left: 5% ;
+    
+    
+}
+.volverinicio{
+   
+    display: flex;
+   
+    align-items: left;
+}
+
+/* proyectos*/
+
+.primerapartado{
+    background-color: rgb(255, 255, 193);
+    position:relative;
+    margin:auto;
+    text-align:left;
+    padding:5px;
+
+}
+.primerapartado-h1{
+    font-size: 30px;
+    text-align: left;
+    padding: 5px;
+    margin-top: 5%;
+   
+}
+.primerapartado-h2{
+    font-size: 20px;
+    text-align: left;
+    padding: 5px;
+    display: flex;
+   
+}
+.TextoApartado{
+    display: flex;
+   
+    align-items: left;
+    padding: 5px;
+    
+
+}
+
+.Proyecto1{
+    
+    align-items: right;
+    display: flex;
+    width: 50%;
+    height: 50%;
     margin-right: 5%;
     margin-left: 5% ;
     
