@@ -18,6 +18,7 @@ header{
     padding:5px;
   
 }
+
 nav{
     position:relative;
     margin:auto;
@@ -131,6 +132,7 @@ color:royalblue;
     margin:auto;
     text-align:left;
     padding:5px;
+  
 
 }
 .primerapartado-h1{
@@ -173,3 +175,41 @@ color:royalblue;
    
     align-items: left;
 }
+
+/*ESTILO BOTON*/
+.boton {
+
+    width: 250px;
+    height: 100px;
+    cursor: pointer;
+    border-radius: .5em;
+    background-color: cadetblue;
+    transition:background-color 1s; 
+    margin-right: 5%;
+   
+    
+   }
+   
+   .boton:hover {
+   
+    background-color: #05E31E;
+    
+   }
+  
+   .boton p {
+    text-align: center;
+    font-size: 2em; 
+    font-weight:bold;
+    color: antiquewhite;
+    line-height: 1.6em;
+   }
+   /*
+   .BotonesLenguaje{
+    
+    align-items: left;
+   
+    margin:auto;
+
+   }*/
+
+   
