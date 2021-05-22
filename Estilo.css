@@ -1,6 +1,6 @@
 body {
-
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsREr1Gt8oTh9w9hJmGcJnc9TKNcACPJwxohFSoKgqz4WiDEVdqBMucqHsXsNpqil5VrA&usqp=CAU) no-repeat fixed;
+    background-color: #D4F1F4;
+   /* background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsREr1Gt8oTh9w9hJmGcJnc9TKNcACPJwxohFSoKgqz4WiDEVdqBMucqHsXsNpqil5VrA&usqp=CAU) no-repeat fixed;*/
     background-size: 100% auto, 100% ;
 }  /*  
 .estilo{
@@ -24,7 +24,7 @@ nav{
     margin:auto;
     width:100%;
     height: auto;
-    background:rgb(124, 114, 110);
+    background:#75E6DA;
 }
 nav ul{
     position:relative;
@@ -45,7 +45,7 @@ nav ul li a{
     
     
 }nav ul li a:hover{
-    background-color: red;
+    background-color: #D4F1F4;
     
 }
 
@@ -72,14 +72,16 @@ color:royalblue;
     margin:auto;
     text-align:left;
     padding:5px;
+    
 
 }
 
-.TerceroApartado{
+.TercerApartado{
     position:relative;
     margin:auto;
     text-align:left;
     padding:5px;
+    background-color: #75E6DA;
 
 }
 
@@ -127,7 +129,7 @@ color:royalblue;
 /* proyectos*/
 
 .primerapartado{
-    background-color: rgb(134, 247, 228);
+    background-color: #75E6DA;
     position:relative;
     margin:auto;
     text-align:left;
@@ -191,7 +193,7 @@ color:royalblue;
    
    .boton:hover {
    
-    background-color: #05E31E;
+    background-color: #189AB4;
     
    }
   
@@ -215,7 +217,7 @@ color:royalblue;
    
 
 .footer{
-    background: #fafafa;
+    background: #189AB4;
 }
 
 .footer__caption{
