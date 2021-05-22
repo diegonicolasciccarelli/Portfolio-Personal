@@ -48,12 +48,6 @@ nav ul li a:hover{
     display: flex;
    
 }
-.TextoApartado{
-    display: flex;
-   
-    align-items: center;
-    padding: 5px;
-}
 .sobremi-perfil{
     border-radius:2rem;
     align-items: right;
@@ -101,9 +95,10 @@ nav ul li a:hover{
     align-items: center;
     padding: 5px;
 }
+
 .TextoApartado{
     display: flex;
-    align-items: left;
+    align-items: center;
     padding: 5px;
 }
 
@@ -148,8 +143,8 @@ nav ul li a:hover{
 }
 .boton:hover {
     background-color: #189AB4;
-   }
-   .boton p {
+}
+.boton p {
     text-align: center;
     font-size: 2em; 
     font-weight:bold;
