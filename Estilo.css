@@ -4,16 +4,6 @@ body {
     font-family: 'KoHo', sans-serif;
     color:rgb(128, 119, 119);
 }  
-
-/*
-header{
-    position:relative;
-    margin:auto;
-    text-align:center;
-    padding:5px;
-  
-}*/
-
 nav{
     position:relative;
     margin:auto;
@@ -32,47 +22,23 @@ nav ul li{
     display:inline-block ;
     width:24%;
     line-height: 50px;
-    list-style:none;
-    
+    list-style:none;  
 }
 nav ul li a{
     color:black;
     text-decoration:rgb(130, 130, 252);
-    text-align:center;
-    
-    
-}nav ul li a:hover{
-    background-color: #D4F1F4;
-    
+    text-align:center;   
 }
-
-
-
-/*probando*/
-.SegundoApartado{
-    position:relative;
-    margin:auto;
-    text-align:left;
-    padding:5px;
-    
-
+nav ul li a:hover{
+    background-color: #D4F1F4;  
 }
-
-.TercerApartado{
-    position:relative;
-    margin:auto;
-    text-align:left;
-    padding:5px;
-    background-color: #75E6DA;
-
-}
-
 
 .sobremi-h1{
     font-size: 30px;
     text-align: center;
     padding: 5px;
     margin-top: 5%;
+    margin-bottom:10px;
    
 }
 .sobremi-h2{
@@ -80,7 +46,6 @@ nav ul li a{
     text-align: center;
     padding: 5px;
     display: flex;
-    
    
 }
 .TextoApartado{
@@ -88,10 +53,7 @@ nav ul li a{
    
     align-items: center;
     padding: 5px;
-    
-
 }
-
 .sobremi-perfil{
     border-radius:2rem;
     align-items: right;
@@ -100,11 +62,10 @@ nav ul li a{
     height: 25%;
     margin-right: 5%;
     margin-left: 5% ;
-    
-    
+  
 }
 .volverinicio{
-   
+
     display: flex;
     width: 80%;
     height: 80%;
@@ -113,9 +74,6 @@ nav ul li a{
     margin-left: 30px;
 }
 
-
-
-/*el monstruo*/
 .primerapartado{
     background-color: #75E6DA;
     position:relative;
@@ -123,7 +81,6 @@ nav ul li a{
     text-align:left;
     padding:5px;
     border-radius:2rem;
-    
 }
 .primerapartado-h1{
     font-size: 30px;
@@ -131,7 +88,6 @@ nav ul li a{
     padding: 5px;
     margin-top: 3%;
     align-items: justify;
-   
 }
 .primerapartado-h2{
     font-size: 20px;
@@ -139,29 +95,20 @@ nav ul li a{
     padding: 5px;
     display: flex;
     margin-top: 5%;
-   
-   
 }
 .primerapartado-p{
     display: flex;
-   
     align-items: center;
     padding: 5px;
-  
-    
-
 }
 .TextoApartado{
     display: flex;
-   
     align-items: left;
     padding: 5px;
-    
-
 }
 
 .Proyecto1{
-    
+
     align-items: right;
     display: flex;
     width: 50%;
@@ -169,10 +116,9 @@ nav ul li a{
     margin-right: 5%;
     margin-left: 5% ;
     border-radius:0.5em;
-    
-    
 }
 .primerapartado-winform{
+
     background-color: #D4F1F4;
     position:relative;
     margin:auto;
@@ -188,9 +134,7 @@ nav ul li a{
     text-align:left;
     padding:5px;
     border-radius:2rem;
-
 }
-
 /*ESTILO BOTON*/
 .boton {
 
@@ -199,46 +143,34 @@ nav ul li a{
     cursor: pointer;
     border-radius: .5em;
     background-color: cadetblue;
-    
     margin-right: 5%;
     margin-bottom: 3%;
-   
-   
-   
-    
-   }
-   
-   .boton:hover {
-   
+}
+.boton:hover {
     background-color: #189AB4;
-    
    }
-  
    .boton p {
     text-align: center;
     font-size: 2em; 
     font-weight:bold;
     color: antiquewhite;
     line-height: 1.6em;
-   }
-
+}
 .footer{
     background: #189AB4;
     color:black;
     
 }
-
 .footer__caption{
     display: flex;
     flex-wrap: wrap-reverse;
     justify-content: space-evenly;
 }
-
 .socialmedia{
     margin-top: 24px;
     display: flex;
     margin-bottom: 10px;
     margin-left: 30px;
-    justify-content: space-evenly;
-    
+    justify-content: space-evenly;  
 }
+
