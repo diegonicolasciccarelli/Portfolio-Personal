@@ -5,7 +5,6 @@ body {
     color:rgb(128, 119, 119);
 }  
 
-.estilo 
 /*
 header{
     position:relative;
@@ -21,6 +20,7 @@ nav{
     width:100%;
     height: auto;
     background:#75E6DA;
+    border-radius:2rem;
 }
 nav ul{
     position:relative;
@@ -72,6 +72,7 @@ nav ul li a{
 
 }
 
+
 .sobremi-h1{
     font-size: 30px;
     text-align: center;
@@ -100,7 +101,7 @@ nav ul li a{
     border-radius:2rem;
     align-items: right;
     display: flex;
-    width: 10%;
+    width: 15%;
     height: 25%;
     margin-right: 5%;
     margin-left: 5% ;
@@ -116,7 +117,6 @@ nav ul li a{
 }
 
 
-
 /*el monstruo*/
 .primerapartado{
     background-color: #75E6DA;
@@ -124,8 +124,8 @@ nav ul li a{
     margin:auto;
     text-align:left;
     padding:5px;
-   
-
+    border-radius:2rem;
+    
 }
 .primerapartado-h1{
     font-size: 30px;
@@ -170,6 +170,7 @@ nav ul li a{
     height: 50%;
     margin-right: 5%;
     margin-left: 5% ;
+    border-radius:0.5em;
     
     
 }
@@ -179,7 +180,7 @@ nav ul li a{
     margin:auto;
     text-align:left;
     padding:5px;
-
+    border-radius:2rem;
 }
 .primerapartado-generala{
 
@@ -188,8 +189,10 @@ nav ul li a{
     margin:auto;
     text-align:left;
     padding:5px;
+    border-radius:2rem;
 
 }
+
 
 
 
@@ -277,6 +280,7 @@ nav ul li a{
 .footer{
     background: #189AB4;
     color:black;
+    
 }
 
 .footer__caption{
@@ -291,5 +295,5 @@ nav ul li a{
     color: var(--black2);
 }
 
-
+/* probando config de carrusel*/
 
