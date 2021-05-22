@@ -45,12 +45,7 @@ nav ul li a{
     background-color: #D4F1F4;
     
 }
-/*
-.geticono{
-   
-    vertical-align: middle;
-    border-style: none;
-}*/
+
 
 
 /*probando*/
@@ -114,7 +109,10 @@ nav ul li a{
     width: 80%;
     height: 80%;
     align-items: left;
+    margin-top:5px;
+    margin-left: 30px;
 }
+
 
 
 /*el monstruo*/
@@ -193,60 +191,6 @@ nav ul li a{
 
 }
 
-
-
-
-/* proyectos bien*/
-/*
-.primerapartado{
-    background-color: #75E6DA;
-    position:relative;
-    margin:auto;
-    text-align:left;
-    padding:5px;
-
-}
-.primerapartado-h1{
-    font-size: 30px;
-    text-align: left;
-    padding: 5px;
-    margin-top: 5%;
-   
-}
-.primerapartado-h2{
-    font-size: 20px;
-    text-align: left;
-    padding: 5px;
-    display: flex;
-   
-}
-.TextoApartado{
-    display: flex;
-   
-    align-items: left;
-    padding: 5px;
-    
-
-}
-
-.Proyecto1{
-    
-    align-items: right;
-    display: flex;
-    width: 50%;
-    height: 50%;
-    margin-right: 5%;
-    margin-left: 5% ;
-    
-    
-}
-.volverinicio{
-   
-    display: flex;
-   
-    align-items: left;
-}
-*/
 /*ESTILO BOTON*/
 .boton {
 
@@ -255,9 +199,10 @@ nav ul li a{
     cursor: pointer;
     border-radius: .5em;
     background-color: cadetblue;
-    transition:background-color 1s; 
+    
     margin-right: 5%;
     margin-bottom: 3%;
+   
    
    
     
@@ -292,8 +237,8 @@ nav ul li a{
 .socialmedia{
     margin-top: 24px;
     display: flex;
-    color: var(--black2);
+    margin-bottom: 10px;
+    margin-left: 30px;
+    justify-content: space-evenly;
+    
 }
-
-/* probando config de carrusel*/
-
