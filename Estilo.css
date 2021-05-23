@@ -1,8 +1,10 @@
 body {
     background-color: #D4F1F4;
     background-size: 100% auto, 100% ;
-    font-family: 'KoHo', sans-serif;
-    color:rgb(128, 119, 119);
+    
+    font-family: 'Architects Daughter', cursive;
+    font-size: 18px;
+    color:rgb(88, 78, 78);
 }  
 nav{
     position:relative;
@@ -28,6 +30,7 @@ nav ul li a{
     color:black;
     text-decoration:rgb(130, 130, 252);
     text-align:center;   
+    display:inline-flex;
 }
 nav ul li a:hover{
     background-color: #D4F1F4;  
@@ -39,6 +42,8 @@ nav ul li a:hover{
     padding: 5px;
     margin-top: 5%;
     margin-bottom:10px;
+    
+
    
 }
 .sobremi-h2{
@@ -56,6 +61,7 @@ nav ul li a:hover{
     height: 25%;
     margin-right: 5%;
     margin-left: 5% ;
+    margin-bottom: 5%;
   
 }
 
@@ -69,14 +75,6 @@ nav ul li a:hover{
     margin-left: 30px;
 }
 
-.primerapartado{
-    background-color: #75E6DA;
-    position:relative;
-    margin:auto;
-    text-align:left;
-    padding:5px;
-    border-radius:2rem;
-}
 .primerapartado-h1{
     font-size: 30px;
     text-align: center;
@@ -101,6 +99,7 @@ nav ul li a:hover{
     display: flex;
     align-items: center;
     padding: 5px;
+    
 }
 .iconogit:hover{
     background-color: #189AB4;
@@ -148,28 +147,6 @@ nav ul li a:hover{
     padding:5px;
     border-radius:2rem;
 }
-/*ESTILO BOTON*/
-/*
-.boton {
-
-    width: 250px;
-    height: 100px;
-    cursor: pointer;
-    border-radius: .5em;
-    background-color: cadetblue;
-    margin-right: 5%;
-    margin-bottom: 3%;
-}
-.boton:hover {
-    background-color: #189AB4;
-}
-.boton p {
-    text-align: center;
-    font-size: 2em; 
-    font-weight:bold;
-    color: antiquewhite;
-    line-height: 1.6em;
-}*/
 .footer{
     background: #189AB4;
     color:black;
@@ -187,4 +164,3 @@ nav ul li a:hover{
     margin-left: 30px;
     justify-content: space-evenly;  
 }
-
