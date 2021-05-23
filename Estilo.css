@@ -35,16 +35,13 @@ nav ul li a{
 nav ul li a:hover{
     background-color: #D4F1F4;  
 }
-
 .sobremi-h1{
     font-size: 30px;
     text-align: center;
     padding: 5px;
     margin-top: 5%;
     margin-bottom:10px;
-    
 
-   
 }
 .sobremi-h2{
     font-size: 20px;
@@ -62,9 +59,7 @@ nav ul li a:hover{
     margin-right: 5%;
     margin-left: 5% ;
     margin-bottom: 5%;
-  
 }
-
 .volverinicio{
 
     display: flex;
@@ -74,7 +69,6 @@ nav ul li a:hover{
     margin-top:5px;
     margin-left: 30px;
 }
-
 .primerapartado-h1{
     font-size: 30px;
     text-align: center;
@@ -94,7 +88,6 @@ nav ul li a:hover{
     align-items: center;
     padding: 5px;
 }
-
 .TextoApartado{
     display: flex;
     align-items: center;
@@ -129,9 +122,7 @@ nav ul li a:hover{
     border-radius:2rem;
 }
 .primerapartado-restaurant{
-
     background-color: #D4F1F4;
-    
     position:relative;
     margin:auto;
     text-align:left;
@@ -139,7 +130,6 @@ nav ul li a:hover{
     border-radius:2rem;
 }
 .primerapartado-generala{
-
     background-color: #75E6DA;
     position:relative;
     margin:auto;
