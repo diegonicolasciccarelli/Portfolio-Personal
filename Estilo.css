@@ -58,6 +58,7 @@ nav ul li a:hover{
     margin-left: 5% ;
   
 }
+
 .volverinicio{
 
     display: flex;
@@ -101,7 +102,14 @@ nav ul li a:hover{
     align-items: center;
     padding: 5px;
 }
-
+.iconogit:hover{
+    background-color: #189AB4;
+    border-radius: 2rem;
+}
+.inicio:hover{
+    background-color: #189AB4;
+    border-radius: 2rem;
+}
 .Proyecto1{
 
     align-items: right;
@@ -114,7 +122,17 @@ nav ul li a:hover{
 }
 .primerapartado-winform{
 
+    background-color: #75E6DA;
+    position:relative;
+    margin:auto;
+    text-align:left;
+    padding:5px;
+    border-radius:2rem;
+}
+.primerapartado-restaurant{
+
     background-color: #D4F1F4;
+    
     position:relative;
     margin:auto;
     text-align:left;
@@ -123,7 +141,7 @@ nav ul li a:hover{
 }
 .primerapartado-generala{
 
-    background-color: #D4F1F4;
+    background-color: #75E6DA;
     position:relative;
     margin:auto;
     text-align:left;
@@ -131,6 +149,7 @@ nav ul li a:hover{
     border-radius:2rem;
 }
 /*ESTILO BOTON*/
+/*
 .boton {
 
     width: 250px;
@@ -150,7 +169,7 @@ nav ul li a:hover{
     font-weight:bold;
     color: antiquewhite;
     line-height: 1.6em;
-}
+}*/
 .footer{
     background: #189AB4;
     color:black;
